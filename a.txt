@@ -1,0 +1,56 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+<a href="url#"></a>
+ <meta charset="utf-8">
+ <title>実験用２.html</title>
+<body bgcolor="#ffff99"></body>
+<style>
+h1 {
+background-color:#fcf5dc;
+}
+h2{
+    font size="4"
+}
+section{
+    background-color:#e6e6fa;
+}
+</style>
+ </head>
+<BODY leftmargin="100" topmargin="100" rightmargin="100 "bottommargin="100">
+
+
+ <body>
+
+<div style="text-align : center">     
+<h1><font size="6" color="#20b2aa">個別教室のトライ　津田沼駅前校</font>
+<span><font size="3" color="#000000"><実験用></span>
+</h1>
+
+<article>
+<section>
+<h2> HP情報</h2>
+<p>住所　〒274-0825　千葉県船橋市前原西2-14-2　津田沼駅前ビル６Ｆ</p>
+<p>電話番号　0120-555-202</p>
+<p>営業時間　平日9:00～23:00</p>
+<p>授業形式　個別指導</p>
+<a href="https://www.kobekyo.com/around/chiba/tsudanuma/">ＨＰはこちら</a>
+</section>
+
+
+<section>
+<h2>交通手段</h2>
+<p>津田沼駅北口から徒歩2分</p>
+</section>
+
+<section>
+<h2>周辺の気分転換スポット</h2>
+<p>津田沼PARCO</p>
+<p>〒274-0825 千葉県船橋市前原西２丁目１８-１</p>
+<a href="https://tsudanuma.parco.jp/">ＨＰはこちら</a>
+</section>
+</article>
+<p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YqY3n9vOwT2qGow9i7r8U1AsmlOLy38e" width="640" height="480"></iframe></p>
+
+</body>
+ </html>
